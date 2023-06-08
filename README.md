@@ -3,9 +3,9 @@
 
 Respond with a resource to get request for the following routes:
 
-"/" => Return a static webpage rendered form an HTML template
-"/hello" => Return a static text message
-"/form.html" => Return the input of an HTML form
+"/" => Return a static webpage rendered form an HTML template <br>
+"/hello" => Return a static text message<br>
+"/form.html" => Return the input of an HTML form<br>
 
 
 
